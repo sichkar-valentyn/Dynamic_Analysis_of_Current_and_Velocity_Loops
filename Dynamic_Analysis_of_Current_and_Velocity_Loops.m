@@ -1,3 +1,15 @@
+% File: Dynamic_Analysis_of_Current_and_Velocity_Loops.m
+% Description: Simulation of a DC motors feedback loop via current and velocity regulation
+% Environment: Matlab
+%
+% MIT License
+% Copyright (c) 2017 Valentyn N Sichkar
+% github.com/sichkar-valentyn
+%
+% Reference to:
+% [1] Valentyn N Sichkar. Simulation of a DC motors feedback loop via current and velocity regulation // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Dynamic_Analysis_of_Current_and_Velocity_Loops (date of access: XX.XX.XXXX)
+
+
 %Dynamic Analysis of Current and Velocity Loops
 %Using the control systems toolbox
 close all;
