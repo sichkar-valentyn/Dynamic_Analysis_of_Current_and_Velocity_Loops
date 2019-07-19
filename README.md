@@ -1,9 +1,6 @@
 # Dynamic Analysis of Current and Velocity Loops
 Simulation of a DC motors feedback loop via current and velocity regulation
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Simulation of a DC motors feedback loop via current and velocity regulation // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Dynamic_Analysis_of_Current_and_Velocity_Loops (date of access: XX.XX.XXXX)
 
